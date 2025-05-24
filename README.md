@@ -1,2 +1,2 @@
 # sql-university
-UTN - 2nd Year Engineering: Databases – Relational models, SQL, normalization, transactions, constraints,
+UTN - 3rd Year Engineering: Databases – Relational models, SQL, normalization, transactions, constraints,
