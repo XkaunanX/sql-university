@@ -3,6 +3,8 @@ UTN - 3rd Year Engineering: Databases – Relational models, SQL, normalization,
 
 ## Descripcion del Sistema de Registro de Ventas
 
+![Modelo Relacional](img/REDVEN.png)
+
 Este sistema representa un **sistema basico de registro de ventas** que podra ser utilizado por diferentes empresas. A continuacion se detallan las caracteristicas principales:
 
 ### Entidades Principales
